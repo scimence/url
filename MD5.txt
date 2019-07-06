@@ -1,0 +1,17 @@
+﻿服务器资源目录(https://gitee.com/scimence/url/raw/master/)
+本地资源目录(E:\SVN\workSpace\url\)
+
+待更新文件(
+
+.gitignore(cac6e634269ca35fd75c6ef5316efefc)
+LICENSE(d229da563da18fe5d58cd95a6467d584)
+qyqx.html(6f48369f8317294c32a96ed2957ad3ed)
+qyqx0.html(c094ede24138ac8672addc7b54061ad8)
+R1.html(2ff9d4a76106f1fb84e9077d070f1c93)
+R2.html(f038108ccc61089ff4ed4fa06ca97c3b)
+README.en.md(7270c55491242507c295b7d3acbacb26)
+README.md(93278c40c90d661df694eb127594592b)
+music/R20190706072113.ogg(60dc0e37a6c63c1efca83c80886b4e0)
+music/R20190706081257.ogg(d79aa471970394ec9576cf3dcfcb8ad9)
+
+)待更新文件
