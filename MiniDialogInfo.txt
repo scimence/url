@@ -1,0 +1,1 @@
+﻿{"ID":101,"showRectangle":"true","showIconUrl":"https://132.232.124.176:7002/tools/miniFile/icon11.png","showNoteInfo":"电子公交卡，红包","showButtonInfo":"立即领取","showPicUrl":"https://132.232.124.176:7002/tools/miniFile/12.jpg","ext":"","creatDateTime":"2019-05-03_22:48:40","lastDateTime":"2019-05-05_12:45:31"}

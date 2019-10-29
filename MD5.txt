@@ -7,6 +7,7 @@
 HB.html(a51ae3c0baf1edc1de6f758a1b0489b5)
 LICENSE(d229da563da18fe5d58cd95a6467d584)
 MiniDialogInfo.html(76132f45e527c974e7cdb5617b673838)
+MiniDialogInfo.txt(5c6de50cc537d3f16d053234f38fb278)
 MiniNeverForget.html(e5f1e78462ce5fa7fed2e859440355e6)
 product.html(35487630bbb65d3cee302a3c2009fe8c)
 QRTool.html(59cf04d4dcd0d5a308b7a4f9c59e4b20)
