@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+ 
+	<!-- html静态页参数转发，获取请求？后的参数串,如： .../product.html?parm1=参数1&parmxxx=参数xxx -->
+	<head>
+		<meta charset="UTF-8">
+		<title>html静态页参数转发</title>
+	</head>
+
+	<script>
+		var url = location.search;
+		url = url.substr(1)
+
+
+		// 创建link链接
+		
+		var data = "<a id=\"LinkA\" href =\"https://132.232.124.176:7002/Pages/MiniDialogInfo.aspx?"+ url +"\" >打开链接地址</a>";
+		
+		document.write(data);
+ 
+ 
+	
+	
+		// 自动点击链接跳转
+		
+		var el = document.getElementById('LinkA');
+    	
+		//el.target = '_new'; //指定在新窗口打开
+
+		el.click();//触发打开事件
+	</script>
+	
+	<body>
+	</body>
+ 
+</html>
+
+
